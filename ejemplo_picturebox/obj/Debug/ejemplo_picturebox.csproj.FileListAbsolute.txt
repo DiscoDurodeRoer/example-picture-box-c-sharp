@@ -1,0 +1,10 @@
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\bin\Debug\ejemplo_picturebox.exe.config
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\bin\Debug\ejemplo_picturebox.exe
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\bin\Debug\ejemplo_picturebox.pdb
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.csprojAssemblyReference.cache
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.Form1.resources
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.Properties.Resources.resources
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.csproj.GenerateResource.cache
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.csproj.CoreCompileInputs.cache
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.exe
+D:\proyectos C#\ejemplo_picturebox\ejemplo_picturebox\obj\Debug\ejemplo_picturebox.pdb
